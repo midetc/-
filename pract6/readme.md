@@ -14,18 +14,18 @@
 
 ### 1. Порівняння рівнів магнітного поля по локаціях
 Цей графік показує розподіл значень індукції. Найнижчий рівень зафіксовано у спальні, найвищий та найбільш нестабільний — біля мікрохвильової печі.
-<img width="1200" height="800" alt="magnetic_comparison_boxplot" src="https://github.com/user-attachments/assets/f479fcef-f902-4bc1-b516-5c57efde8ee9" />
+<img width="1200" height="800" alt="magnetic_comparison_boxplot" src="https://github.com/user-attachments/assets/ef9eb3ab-6dbf-4041-ad86-04330c2e7956" />
 
 
 
 ### 2. Динаміка змін та виявлення аномалій
 На часовому ряді чітко видно момент аномального сплеску. Червона точка позначає зафіксований викид електромагнітного випромінювання.
-<img width="800" height="600" alt="magnetic_heatmap" src="https://github.com/user-attachments/assets/7474d7d4-6e37-4595-9a05-fc7815eb6cdc" />
+<img width="1200" height="800" alt="magnetic_time_series" src="https://github.com/user-attachments/assets/c346b27c-840a-415f-b249-ca7c082f6fed" />
 
 
 ### 3. Теплова карта приміщення (Heatmap)
 Візуалізація плану приміщення, де колір відображає інтенсивність магнітного поля. Червоні зони потребують уваги з точки зору електромагнітної безпеки.
- magnetic_heatmap.png <img width="800" height="600" alt="magnetic_heatmap" src="https://github.com/user-attachments/assets/bc6b1ca0-955e-4d49-8c20-9fb83078687c" />
+<img width="800" height="600" alt="magnetic_heatmap" src="https://github.com/user-attachments/assets/8379fd5e-23b5-462d-9a96-06a2963d7a61" />
 
 
 ---
